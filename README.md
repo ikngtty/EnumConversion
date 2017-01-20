@@ -2,7 +2,7 @@
 A converter between an enum and a related text which is defined by an attribute.
 
 ## Attention
-* This program needs .NET framwork 4.0 or later.
+* This program needs .NET framework 4.0 or later.
 * This program is tested with NUnit 2.6.4.
 * This program is created with Sharp Develop 5.1.
 
